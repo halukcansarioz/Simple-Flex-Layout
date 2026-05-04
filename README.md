@@ -29,3 +29,7 @@ Projeyi yerel bilgisayarınıza indirmek ve tarayıcınızda görüntülemek ço
 1. **Repoyu klonlayın:**
    ```bash
    git clone https://github.com/halukcansarioz/Simple-Flex-Layout.git
+
+2. **Dizine Gidin**: Terminal veya komut satırınızda cd Simple-Flex-Layout yazarak proje klasörünün içine girin (veya dosyaları doğrudan bilgisayarınızın dosya gezgininden açın).
+
+3. **Çalıştırın**: Klasör içerisindeki index.html dosyasını çift tıklayarak favori web tarayıcınızda (Chrome, Firefox, Safari vb.) açın. Alternatif olarak, VS Code kullanıyorsanız Live Server eklentisiyle de başlatabilirsiniz.
